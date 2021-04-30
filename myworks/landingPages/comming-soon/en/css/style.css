@@ -121,12 +121,12 @@ section.features .media {
     max-height: 190px;
 }
 
-section.features .media .media-body. h5 {
+section.features .media .media-body h5 {
     font-size: 12px !important;
     color: #555555;
 }
 
-section.features .media .media-body. p {
+section.features .media .media-body p {
     font-size: 13px;
     color: #9c9c9c;
     line-height: 25px;

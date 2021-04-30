@@ -573,4 +573,7 @@ footer .copyright p {
     section.gallery .work-gallery .overlay-gallery img {
         width: 50%;
     }
+    iframe{
+    width: 50%; !important;
+    }
 }

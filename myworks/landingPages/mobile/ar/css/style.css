@@ -474,6 +474,17 @@ footer .footer .widget .content form .error {
     }
 }
 
+@media (max-width:481px) {
+    section.option .images img {
+        width: 300px;
+        height: 692px;
+    }
+    section.option .images {
+        bottom: -400px;
+        left: 15% !important;
+    }
+}
+
 @media (max-width:575px) {
     section.banner .overlay .images {
         bottom: -500px;
@@ -493,6 +504,7 @@ footer .footer .widget .content form .error {
     }
     section.option .images {
         bottom: -400px;
+        left: 2%;
     }
     section.option .options {
         margin-bottom: 300px;
